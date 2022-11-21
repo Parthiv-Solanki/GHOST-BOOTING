@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning backend technologies.
 
-- 📫 How to reach me ==> solankiparth304@gmail.com
+- 📫 How to reach me ==> parthivsolanki101@gmail.com
 
 <!---
 GHOST-BOOTING/GHOST-BOOTING is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
