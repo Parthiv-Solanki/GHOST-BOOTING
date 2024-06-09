@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GHOST-BOOTING
+- 👋 Hi, I’m Parthiv Solanki
 
 - 🌱 I’m currently learning backend technologies.
 
